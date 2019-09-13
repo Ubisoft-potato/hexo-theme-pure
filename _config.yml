@@ -5,8 +5,8 @@ menu:
   Categories: categories  # 分类
   Tags: tags  # 标签
   Repository: repository  # github repositories
-  Books: books  # 豆瓣书单
-  Links: links  # 友链
+ # Books: books  # 豆瓣书单
+  #Links: links  # 友链
   About: about  # 关于
 
 # Enable/Disable menu icons
@@ -220,16 +220,14 @@ profile:
     #Behance: https://www.behance.net/cofess
   # My Personal Labels
   labels:
-    - 前端
-    - 前端开发
-    - 前端重构
-    - Web前端
-    - 网页重构
+    - 后端
+    - Java
+    - linux
   # My Personal Works
-  works:
-    name:
-      link: http://www.seaboxdata.com
-      date: 2019
+#  works:
+#    name:
+#      link: http://www.seaboxdata.com
+#      date: 2019
   # My Personal Projects
 #  projects:
 #    cofess/gulp-startpro: https://github.com/cofess/gulp-startpro
