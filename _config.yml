@@ -34,7 +34,7 @@ site:
   title: Ubi-Potato # 页面title
   favicon: /favicon.png
   board: <p>欢迎交流与分享经验!</p> # 站点公告
-  copyright: false # 底部版权信息
+  copyright: true # 底部版权信息
 
 # config
 config:
@@ -47,7 +47,7 @@ config:
 
 # Pagination
 pagination:
-  number: false
+  number: true
   prev: 
     alwayShow: true
   next:
@@ -83,7 +83,7 @@ search:
 
 # Donate
 donate:
-  enable: true
+  enable: false
   # 微信打赏
   wechatpay:
     qrcode: images/donate/wechatpayimg.png
@@ -188,7 +188,7 @@ profile:
   gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
   author: Ubi-potato
   author_title: Java Developer
-  author_description: ......
+  author_description: 育碧牛逼
   location: 育碧,苏维埃
   follow: https://github.com/Ubisoft-potato
   # Social Links
@@ -214,10 +214,10 @@ profile:
   # My Personal Links
   links:
     Github: https://github.com/Ubisoft-potato
-    Blog: http://blog.cofess.com
-    微博: http://weibo.com/cofess
-    花瓣: http://huaban.com/cofess
-    Behance: https://www.behance.net/cofess
+    #Blog: http://blog.cofess.com
+    #微博: http://weibo.com/cofess
+    #花瓣: http://huaban.com/cofess
+    #Behance: https://www.behance.net/cofess
   # My Personal Labels
   labels:
     - 前端
@@ -228,9 +228,9 @@ profile:
   # My Personal Works
   works:
     name:
-      link: http://www.example.com
-      date: 2016
+      link: http://www.seaboxdata.com
+      date: 2019
   # My Personal Projects
-  projects:
-    cofess/gulp-startpro: https://github.com/cofess/gulp-startpro
-    cofess/hexo-theme-pure: https://github.com/cofess/hexo-theme-pure
+#  projects:
+#    cofess/gulp-startpro: https://github.com/cofess/gulp-startpro
+#    cofess/hexo-theme-pure: https://github.com/cofess/hexo-theme-pure
