@@ -102,7 +102,7 @@ share:
 
 # Github
 github: 
-  username: cofess  # github username
+  username: Ubisoft-potato  # github username
 
 # Comment
 # Gitment
@@ -186,34 +186,34 @@ profile:
   enabled: true # Whether to show profile bar
   avatar: images/avatar.jpg
   gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
-  author: 昵称
-  author_title: Web Developer & Designer
-  author_description: 个人简介。
-  location: Shenzhen, China
-  follow: https://github.com/cofess
+  author: Ubi-potato
+  author_title: Java Developer
+  author_description: ......
+  location: 育碧,苏维埃
+  follow: https://github.com/Ubisoft-potato
   # Social Links
   social:
     links:
-      github: https://github.com/cofess
-      weibo: http://weibo.com/cofess
-      twitter: https://twitter.com/iwebued
+      github: https://github.com/Ubisoft-potato
+      #weibo: http://weibo.com/cofess
+      #twitter: https://twitter.com/iwebued
       # facebook: /
       # dribbble: /
-      behance: https://www.behance.net/cofess
+      #behance: https://www.behance.net/cofess
       rss: atom.xml
     link_tooltip: true # enable the social link tooltip, options: true, false
   # My Skills 
   skills:
     Git: ★★★☆☆
-    Gulp: ★★★☆☆
-    Javascript: ★★★☆☆
-    HTML+CSS: ★★★☆☆
-    Bootstrap: ★★★☆☆
-    ThinkPHP: ★★★☆☆
-    平面设计: ★★★☆☆
+    #Gulp: ★★★☆☆
+    #Javascript: ★★★☆☆
+    #HTML+CSS: ★★★☆☆
+    #Bootstrap: ★★★☆☆
+    #ThinkPHP: ★★★☆☆
+    #平面设计: ★★★☆☆
   # My Personal Links
   links:
-    Github: https://github.com/cofess
+    Github: https://github.com/Ubisoft-potato
     Blog: http://blog.cofess.com
     微博: http://weibo.com/cofess
     花瓣: http://huaban.com/cofess
